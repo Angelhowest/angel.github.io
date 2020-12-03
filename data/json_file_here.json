@@ -1,0 +1,40 @@
+
+{
+    "games":[
+        {
+        "name": "God of War", 
+        "price": 50, 
+        "picture":"location"
+        },
+        {
+        "name": "Days Gone", 
+        "price": 30, 
+        "picture":"location"
+        }
+    ],
+    "consoles":[
+        {
+        "name": "Xbox 360", 
+        "price": 250, 
+        "picture":"location"
+        },
+        {
+        "name": "Playstation 4", 
+        "price": 199, 
+        "picture":"location"
+        }
+    ]
+    ,
+    "others":[
+        {
+        "name": "Kaartspel", 
+        "price": 10, 
+        "picture":"location"
+        },
+        {
+        "name": "Bordspel", 
+        "price": 19, 
+        "picture":"location"
+        }
+    ]
+}
