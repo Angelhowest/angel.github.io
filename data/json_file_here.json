@@ -3,38 +3,38 @@
     "games":[
         {
         "name": "God of War", 
-        "price": 50, 
-        "picture":"location"
+        "price": 50.00, 
+        "picture":"/img/games_godwar.png"
         },
         {
         "name": "Days Gone", 
-        "price": 30, 
-        "picture":"location"
+        "price": 30.00, 
+        "picture":"/img/games_daygone.png"
         }
     ],
     "consoles":[
         {
         "name": "Xbox 360", 
-        "price": 250, 
-        "picture":"location"
+        "price": 250.00, 
+        "picture":"/img/console_360.png"
         },
         {
         "name": "Playstation 4", 
-        "price": 199, 
-        "picture":"location"
+        "price": 200.00, 
+        "picture":"/img/console_ps4.png"
         }
     ]
     ,
     "others":[
         {
         "name": "Kaartspel", 
-        "price": 10, 
-        "picture":"location"
+        "price": 10.00, 
+        "picture":"/img/board_lary.png"
         },
         {
         "name": "Bordspel", 
-        "price": 19, 
-        "picture":"location"
+        "price": 19.00, 
+        "picture":"/img/card_yugi.jpg"
         }
     ]
 }
